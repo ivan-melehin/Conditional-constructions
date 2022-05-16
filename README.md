@@ -1,0 +1,2 @@
+# Conditional-constructions
+Implement the convertString() method, which accepts a string and, if the first letter is not capitalized, returns a reversed version of the original string. If the first letter is capitalized, the string is returned unchanged. If an empty string is passed as input, the method should return an empty string.  App.convertString("Hello"); // "Hello" App.convertString("hello"); // "olleh"   // Don't forget to consider the empty string! App.convertString(""); // ""  
